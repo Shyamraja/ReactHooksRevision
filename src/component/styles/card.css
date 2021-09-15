@@ -1,7 +1,7 @@
 .img-container{
    width: 100%;
    min-height: 200px;
-   background-color:azure;
+   background-color:rgb(255, 240, 253);
    display: flex;
    justify-content: center;
    align-items: center;    

@@ -1,18 +1,19 @@
 <!--
 *** Thanks for checking out this README Template. This template is for user guidance and detail about this project
 -->
-
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+
 
 This application is a part of assignment which can show Information of users in Card in Home page. From more info button detail info of users is shown in modal page.
 ## Built With
 
 This application shows JSON data with react components . The major technologies that are used to develop projects are as follows
 
-- [React](https://reactjs.org/)
-- [Reactstrap](https://reactstrap.github.io/)
+-  [React](https://reactjs.org/)
+-  [Reactstrap](https://reactstrap.github.io/)
+
 
 
 ## Prerequisites
@@ -27,7 +28,7 @@ You can download and install requirements from the following links:
 
 ## Run application
 
- 1.Clone with the repository from https://github.com/Shyamraja/UserInfoApp.git
+ 1.Clone with the repository from https://github.com/Shyamraja/ReactHooksRevision.git
 
  2.Run following command 
 
@@ -81,20 +82,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 

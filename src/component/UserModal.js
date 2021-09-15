@@ -11,6 +11,7 @@ const UserModal = ({
       <Modal isOpen={isOpen} toggle={toggle}>
         <ModalHeader toggle={toggle}>User Information</ModalHeader>
         <ModalBody>
+
           <div>
             <h2>Personal Information</h2>
             <p>name: {user.name}</p>
@@ -19,8 +20,7 @@ const UserModal = ({
             <p>phone: {user.phone}</p>
             <p>company: {user.company.name}</p>
             <p>website: {user.website}</p>
-            
-          </div>
+         </div>
 
           <div>
             <h2>Address</h2>
@@ -31,8 +31,8 @@ const UserModal = ({
             <li>zipcode: {user.address.zipcode}</li>
             </ul>
           </div>
-            
         </ModalBody>
+        
         <ModalFooter>
           <Button color="secondary" onClick={toggle}>Cancel</Button>
         </ModalFooter>

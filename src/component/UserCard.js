@@ -6,7 +6,6 @@ import {
 import UserModal from "./UserModal";
 import "./styles/card.css";
 
-
 const UserCard = ({user}) => {
   const [showModal,setShowModal]=useState(false) 
   const toggle = () => setShowModal(!showModal)
